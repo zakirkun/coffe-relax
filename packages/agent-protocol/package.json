@@ -1,0 +1,11 @@
+{
+  "name": "@coffe/agent-protocol",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Typed boundary contract between Coffe and its bundled agent sidecar.",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
